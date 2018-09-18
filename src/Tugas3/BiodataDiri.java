@@ -23,7 +23,7 @@ public class BiodataDiri {
         tanggallahir = "14-12-2002";
         jeniskelamin = "Perempuan";
         alamat = "Jl. Danau Poso I G2D no. 21";
-        mottohidup = "Apa Hayo?";
+        mottohidup = "Jangan menunda-nunda pekerjaanmu saat ini, sebab akan menambahkan bebanmu diwaktu esok?";
 
         //mencetak ke layar isi variabel
         System.out.println("Nama : " + nama);
